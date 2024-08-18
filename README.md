@@ -14,7 +14,7 @@ To run the script, Python version 3.6 or higher is required.
 
 ```
 git clone https://github.com/Nikitimba09/test_task.git
-cd replace-values-script
+cd test_task
 ```
 
 #Usage
