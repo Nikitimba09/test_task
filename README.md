@@ -52,6 +52,6 @@ Use the command below to run the script, specifying the names of the configurati
 python3 main.py config.txt input.txt
 ````
 
-##*Result:*
+## *Result:*
 
 The changed lines will be output to the console, sorted by the number of replacements.
