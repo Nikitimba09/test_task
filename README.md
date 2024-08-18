@@ -13,7 +13,7 @@ To run the script, Python version 3.6 or higher is required.
 * Clone the repository or download the script:
 
 ```
-git clone https://github.com/your-repository/replace-values-script.git
+git clone https://github.com/Nikitimba09/test_task.git
 cd replace-values-script
 ```
 
